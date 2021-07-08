@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/splas_screen.unity
+    guid: b42d6b335e71b544e98ee3467f0be633
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 46fa66e32c5fcd246bf681e976e0639e
+  - enabled: 1
+    path: Assets/Scenes/video_logo.unity
+    guid: d537b2a257e61fc4aa2ffa56d5428297
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: d506d5f55eef79044ab816c77a1086e9
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
